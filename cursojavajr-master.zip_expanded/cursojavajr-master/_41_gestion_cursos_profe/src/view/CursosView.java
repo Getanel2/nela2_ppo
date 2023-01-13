@@ -25,7 +25,7 @@ public class CursosView {
 		do {
 			mostrarMenu();
 			opcion=Integer.parseInt(sc.nextLine());  // lee opcion elegida
-			switch(opcion) {      // evaluamos grgerfefferferfferfger5yt45
+			switch(opcion) {      // evaluamos 
 			case 1:
 				añadirCurso();
 				break;
